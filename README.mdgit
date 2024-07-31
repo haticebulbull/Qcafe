@@ -1,0 +1,1 @@
+# Qcafe initgit add .git commit -m first commitgit branch -M maingit remote add origin https://github.com/haticebulbull/Qcafe.gitgit push -u origin main
